@@ -31,7 +31,7 @@ This project is a web application built with Flask that allows you to manage stu
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/student-teacher-management.git
+    git clone https://github.com/hasan0v/student-teacher-management.git
     ```
 
 2. Navigate to the project directory:
